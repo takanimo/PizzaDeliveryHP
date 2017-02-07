@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+h1{text-align:center }
+
+body
+{
+	background-image:url("http://i.huffpost.com/gen/1282658/images/o-FEMALE-CHEF-facebook.jpg");
+}
+
+#list1{
+	text-align:right;
+	list-style-type:none;
+}
+
+#list2{
+	list-style-type:none;
+}
+
+#list2
+{
+	display:inline-block;
+}

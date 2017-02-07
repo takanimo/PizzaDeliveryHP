@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+h1{
+	text-align:center;
+}
+ul
+{
+	text-align:center;
+	list-style-type:none;
+}
+
+p
+{
+	text-align:center;
+}
+
+.wrapper1
+{
+	text-align:center
+}
+
+.wrapper
+{
+	text-align:center;
+}
+
+body
+{
+	background-image:url("http://wpdemos.themezaa.com/stylekit/foodlly/wp-content/uploads/2015/04/homepage-cheff.jpg");
+}
